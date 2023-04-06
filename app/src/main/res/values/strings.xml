@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GYM App</string>
+    <string name="home">Home</string>
+    <string name="add_member">Add Member</string>
+    <string name="fee_pending">Fee Pending</string>
+    <string name="setting">Setting</string>
+    <string name="add_update_fee">Add/Update Fee</string>
+    <string name="password_update">Password Update</string>
+</resources>
